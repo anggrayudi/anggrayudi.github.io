@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="../assets/favicon-watercat.png" />
     <link rel="stylesheet" href="changelog-style.css">
+    <script type="text/javascript" src="parser.js"></script>
     <title>Changelog - Watercat Download Manager</title>
   </head>
   <body>
@@ -12,7 +13,7 @@
       <h1>Watercat Download Manager Changelog</h1><br><br>
     </div>
 
-    <script type="text/javascript" src="parser.js">
+    <script type="text/javascript">
       var card = document.getElementById("changelist");
       parseChangelog(card, "https://anggrayudi.github.io/changelog/watercat.json");
     </script>
