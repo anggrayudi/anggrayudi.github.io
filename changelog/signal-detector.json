@@ -1,0 +1,9 @@
+[
+    {
+        "versionName":"2.4.0","versionCode":35,"date":1552103049994,
+        "changes":[
+            {"type":"feature", "text":"You can purchase pro version now"},
+            {"type":"fixed", "text":"Fixed bugs on Oreo devices"}
+        ]
+    }
+]

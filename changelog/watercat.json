@@ -1,0 +1,12 @@
+[
+    {
+        "versionName":"1.0.5",
+        "versionCode":10,
+        "date":1551633070143,
+        "changes":[
+            {"type":"fixed","text":"Fixed crash while sharing files"},
+            {"type":"fixed","text":"Fixed crash when opening download dialog"},
+            {"type":"fixed","text":"Fixed crash when swiping histories"}
+        ]
+    }
+]

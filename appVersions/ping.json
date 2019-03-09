@@ -1,7 +1,0 @@
-{
-    "versionName":"2.3.7","versionCode":34,"date":1548194483011,
-    "changes":[
-        {"type":"fixed", "text":"Fixed crash when opening Settings"},
-        {"type":"info", "text":"Better UX for storage permissions"}
-    ]
-}
