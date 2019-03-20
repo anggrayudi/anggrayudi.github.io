@@ -1,5 +1,14 @@
 [
     {
+        "versionName":"1.0.6",
+        "versionCode":11,
+        "date":1553072781089,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"},
+            {"type":"fixed","text":"Accepts external download request using scheme watercat://download?url=urlToDownload"}
+        ]
+    },
+    {
         "versionName":"1.0.5",
         "versionCode":10,
         "date":1551633070143,
