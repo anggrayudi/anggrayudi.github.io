@@ -1,5 +1,17 @@
 [
     {
+        "versionName":"1.0.8",
+        "versionCode":14,
+        "date":1553782061111,
+        "changes":[
+            {"type":"feature","text":"Open in Firefox & Chrome"},
+            {"type":"fixed","text":"Crash when starting downloads on some devices"},
+            {"type":"fixed","text":"Quota limiter not updated in Settings"},
+            {"type":"fixed","text":"Cannot cancel downloads in rebuilding state."},
+            {"type":"fixed","text":"Fixed minor bugs"}
+        ]
+    },
+    {
         "versionName":"1.0.6",
         "versionCode":11,
         "date":1553072781089,
