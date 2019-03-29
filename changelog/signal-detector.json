@@ -1,5 +1,11 @@
 [
     {
+        "versionName":"2.4.1","versionCode":36,"date":1553879007636,
+        "changes":[
+            {"type":"fixed", "text":"Fixed crash when installing app via P2P on Lollipop devices and higher"},
+            {"type":"fixed", "text":"Fixed sound notification for connectivity changes does not triggered properly"}
+        ]
+    },{
         "versionName":"2.4.0","versionCode":35,"date":1552210766415,
         "changes":[
             {"type":"feature", "text":"You can purchase pro version now"},
