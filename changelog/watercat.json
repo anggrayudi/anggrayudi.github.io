@@ -1,5 +1,12 @@
 [
     {
+        "versionName":"1.1.0",
+        "versionCode":15,
+        "date":1554318247856,
+        "changes":[
+            {"type":"feature","text":"Added support for Google Drive downloads."}
+        ]
+    },{
         "versionName":"1.0.8",
         "versionCode":14,
         "date":1553782061111,
