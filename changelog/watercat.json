@@ -1,5 +1,13 @@
 [
     {
+        "versionName":"1.1.1",
+        "versionCode":16,
+        "date":1554484037862,
+        "changes":[
+            {"type":"feature","text":"Supported Firefox Lite"},
+            {"type":"fixed","text":" Fixed bugs"}
+        ]
+    },{
         "versionName":"1.1.0",
         "versionCode":15,
         "date":1554318247856,
