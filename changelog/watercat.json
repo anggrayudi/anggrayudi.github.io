@@ -1,11 +1,19 @@
 [
     {
+        "versionName":"1.1.2",
+        "versionCode":17,
+        "date":1554905504301,
+        "changes":[
+            {"type":"fixed","text":"Fixed error download from Google Drive"},
+            {"type":"fixed","text":"Fixed some bugs"}
+        ]
+    },{
         "versionName":"1.1.1",
         "versionCode":16,
         "date":1554484037862,
         "changes":[
             {"type":"feature","text":"Supported Firefox Lite"},
-            {"type":"fixed","text":" Fixed bugs"}
+            {"type":"fixed","text":"Fixed bugs"}
         ]
     },{
         "versionName":"1.1.0",
