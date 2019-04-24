@@ -1,5 +1,10 @@
 [
     {
+        "versionName":"2.4.3","versionCode":38,"date":1556125061142,
+        "changes":[
+            {"type":"fixed", "text":"Fixed crash for ringtone picker dialog"}
+        ]
+    },{
         "versionName":"2.4.1","versionCode":36,"date":1553879007636,
         "changes":[
             {"type":"fixed", "text":"Fixed crash when installing app via P2P on Lollipop devices and higher"},
