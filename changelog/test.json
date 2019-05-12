@@ -14,7 +14,6 @@
         "versionCode":2147483640,
         "date":1553072781089,
         "changes":[
-            {"type":"fixed","text":""},
             {"type":"fixed","text":"Fixed bugs"}
         ]
     }
