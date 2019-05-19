@@ -1,5 +1,12 @@
 [
     {
+        "versionName":"1.1.6",
+        "versionCode":22,
+        "date":1558287876247,
+        "changes":[
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
         "versionName":"1.1.4",
         "versionCode":20,
         "date":1557675213944,
