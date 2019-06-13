@@ -1,5 +1,13 @@
 [
     {
+        "versionName":"1.1.9",
+        "versionCode":25,
+        "date":1560454677546,
+        "changes":[
+            {"type":"feature","text":"Added dark theme"},
+            {"type":"fixed","text":"Fixed bugs"}
+        ]
+    },{
         "versionName":"1.1.8",
         "versionCode":24,
         "date":1559932765278,
