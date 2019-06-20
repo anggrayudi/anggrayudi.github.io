@@ -1,5 +1,12 @@
 [
     {
+        "versionName":"1.1.11",
+        "versionCode":27,
+        "date":1561035221878,
+        "changes":[
+            {"type":"feature","text":"Added fingerprint authentication"}
+        ]
+    },{
         "versionName":"1.1.9",
         "versionCode":25,
         "date":1560454677546,
